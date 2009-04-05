@@ -1,5 +1,0 @@
-== Version 1.1 ==
-
-Fixed the installation error whereby the table would not be created.
-Totals will now only display if any donations have been made.
-Incentive is now displayed correctly for incentive values of 0.00.
